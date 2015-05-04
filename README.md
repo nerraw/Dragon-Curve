@@ -14,7 +14,11 @@ after infinite folds, but it only takes a few iterations (n = 8 or 9) to see the
 overall form of the fractal. 
 
 SEE MORE:
+
 http://en.wikipedia.org/wiki/Dragon_curve
+
 https://www.youtube.com/watch?v=wCyC-K_PnRY
+
 https://www.youtube.com/watch?v=NajQEiKFom4
+
 https://www.youtube.com/watch?v=EdyociU35u8
