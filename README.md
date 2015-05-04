@@ -2,7 +2,7 @@
 Plotting the Dragon Curve Fractal
 
 The Dragon Curve Fractal is a geometric pattern that is a not-so-obvious result
-of a fairly simple idea. It is formed by a line that makes either or a left or 
+of a fairly simple idea. It is formed by a line that makes either a left or 
 right 90 degree turn at regular intervals. The formula for determining whether 
 to turn left or right arises from folding a piece of paper. If you take a strip
 of paper and fold it in half by bringing the left end to the right. Once folded 
